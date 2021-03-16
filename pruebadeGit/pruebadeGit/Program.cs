@@ -11,6 +11,7 @@ namespace pruebadeGit
             //ASEORRR
             //CODIGO DESDE vs
             //codigo a llamar clase
+            //fetch-recuperar(traes los cambios del remoto) // pull-extraer(ves los cambios del remoto) //
         }
     }
 }
